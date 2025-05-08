@@ -17,7 +17,7 @@ I enjoy solving complex challenges with technology to optimize processes and del
 - **Currently exploring**: Power BI for data visualization, LLM, data engineering pipelines 
 
 #### 📬 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/itzelt-gómez-24565026b)  
+- 🏷️ [LinkedIn](https://www.linkedin.com/in/itzelt-gómez-24565026b)  
 - 📧 itzeltgomezc@outlook.com
 
 Thanks for visiting my profile! 📚
