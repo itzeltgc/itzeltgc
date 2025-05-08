@@ -1,8 +1,10 @@
-# Hi there 👋 I'm Itzelt Gómez! 
+# Hi there 👋 I'm Itzelt Gómez
 
-✨ Welcome to my GitHub profile! ✨  
-I'm a Data Science and Mathematics Engineer passionate about machine learning and AI.  
-I enjoy solving complex challenges with technology to optimize processes and deliver impactful results.
+### ✨ Welcome to my GitHub profile! ✨  
+
+I'm a Data Science and Mathematics Engineer passionate about machine learning and artificial intelligence.  
+I enjoy solving complex problems using technology to optimize processes, develop efficient solutions, and achieve impactful results.
+
 
 ## 🧩 About Me
 - 🎓 Currently studying @ Tecnológico de Monterrey Campus Guadalajara
