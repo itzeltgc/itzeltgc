@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Itzelt Gómez 
+# Hi there 👋 I'm Itzelt 
 
 ### ✨ Welcome to my GitHub profile! 👩🏻‍💻  
 
