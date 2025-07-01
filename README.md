@@ -1,11 +1,8 @@
 # Hi there 👋 I'm Itzelt 
 
 ### ✨ Welcome to my GitHub profile! 👩🏻‍💻  
-I’m a data science student driven by the challenge of turning complex problems into actionable insights. 
+I’m a data scientist driven by the challenge of turning complex problems into actionable insights. 
 I’m passionate about applying technology to optimize processes, improve decision-making, and create meaningful, measurable impact.
-
-Throughout my academic and project experience, I’ve worked on solving real-world problems using tools like machine learning, time series forecasting, probabilistic modeling (e.g., Markov chains, Bayesian networks), and geospatial analytics. 
-Whether it’s segmenting customers for smarter financial strategies, identifying risk through predictive models, or analyzing economic sectors for policy recommendations, I thrive on using data to make a difference.
 
 
 
