@@ -25,5 +25,6 @@ I also enjoy hiking, building LEGO sets, and relaxing with movies and TV series 
 ## 📬 Let's Connect!
 - 🏷️ [LinkedIn](https://www.linkedin.com/in/itzelt-gómez-24565026b)  
 - 📧 itzeltgomezc@outlook.com
+- 🎓 A01741199@tec.mx
 
 Thanks for visiting my profile! 📚
