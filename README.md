@@ -9,14 +9,14 @@ I’m passionate about applying technology to optimize processes, improve decisi
 ## 🧩 About Me
 - 🎓 Currently studying @ Tecnológico de Monterrey Campus Guadalajara
 - 💡 Interests: Data Science, FinTech, Machine Learning, AI, Statistical Analysis
-- 🧠 Always learning: Statistical modeling, feature selection techniques, and model interpretability
-- 🌱 Recently worked on: Human Activity Recognition from a multiview perspective using metaheuristic algorithms
+- 🧠 Always learning: Statistical modeling, ML Techniques, 
+- 🌱 Recently worked on: Natural Lengeage Processing 
 
 ## 💻 Tech Stack
 - **Languages**: Python, R, SQL  
 - **Tools & Frameworks**: Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, TensorFlow, MEALPY, MAFESE (feature selection)  
 - **Technologies**: Visual Studio Code, Jupyter Notebook, GitHub  
-- **Currently exploring**: Power BI for data visualization, LLM, data engineering pipelines
+- **Currently exploring**: GenAI
 
 ## 📖 Personal Interest
 Books transport me to another dimension—free of worries and full of delightful adventures.
