@@ -4,7 +4,7 @@ B.S. in Data Science and Mathematics Engineer @ Tecnológico de Monterrey, Campu
 
 ---
 
-## Areas of expertise
+## Areas of Expertise
 * Data Science, Machine Learning, Artifitial Intelligence, Backend, Statistical Analysis
 
 ## Skills
@@ -13,13 +13,13 @@ B.S. in Data Science and Mathematics Engineer @ Tecnológico de Monterrey, Campu
 
 ---
 
-## Experience 
+## 💻 Experience
 * Software Engineer Intern at Oracle. [Jul 2025 - March 2026]
 * Research Assistance at Tecnológico de Monterrey. [Oct 2024 - Jun 2025]
 
 ---
 
-## Projects
+## 💼 Projects
 * A reposirtory with my most relevant academic and personal coursework is available here
 
 ---
