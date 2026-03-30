@@ -30,6 +30,6 @@ I love reading, gardening, listening to music, and play beach and indoor volleyb
 
 ---
 
-# 📬 Get in touch
+# 📬 Get in touch!
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/itzelt-gómez-24565026b)
 [![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:itzeltgomezc@outlook.com)
