@@ -9,7 +9,7 @@ B.S. in Data Science and Mathematics Engineer @ Tecnológico de Monterrey, Campu
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,r,sklearn,tensorflow,vscode,github,git,bash&them=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,sklearn,tensorflow,vscode,github,git,bash&theme=light)](https://skillicons.dev)
 
 ---
 
