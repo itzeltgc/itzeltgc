@@ -21,7 +21,7 @@ B.S. in Data Science and Mathematics Engineer @ Tecnológico de Monterrey, Campu
 
 ## 💼 Projects & Certification
 * A repository with my most relevant academic and personal coursework is available [here](https://github.com/itzeltgc/projects-portfolio.git)
-* A reposiroty with all my certifications its available [here](https://github.com/itzeltgc/Certificates.git)
+* A repository with all my certifications is available [here](https://github.com/itzeltgc/Certificates.git)
 
 ---
 
