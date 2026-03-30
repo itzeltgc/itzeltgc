@@ -14,8 +14,8 @@ B.S. in Data Science and Mathematics Engineer @ Tecnológico de Monterrey, Campu
 ---
 
 ## Experience 
-* Software Engineer Intern at Oracle. [2025]
-* Research Assistance at Tecnológico de Monterrey. [2025 - Present]
+* Software Engineer Intern at Oracle. [Jul 2025 - March 2026]
+* Research Assistance at Tecnológico de Monterrey. [Oct 2024 - Jun 2025]
 
 ---
 
