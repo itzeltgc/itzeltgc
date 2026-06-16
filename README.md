@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFE6ED&center=true&vCenter=true&width=800&lines=Data+Scientist;Software+Engineer;Data+Science+%26+Mathematics+Engineer;AI%2FML+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF9AA2&center=true&vCenter=true&width=800&lines=Data+Scientist;Software+Engineer;Data+Science+%26+Mathematics+Engineer;AI%2FML+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -29,7 +29,10 @@ My interests lie at the intersection of Machine Learning, Artificial Intelligenc
 ## Tech Stack
 
 <div align="center">
-[![Tech Stack](https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,mysql,postgres,git,github,bash,vscode)](https://skillicons.dev)
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,sklearn,pytorch,mysql,postgres,git,github,bash,vscode" />
+</a>
 
 <p align="center">
   Machine Learning • Data Analysis • Feature Selection • Optimization • Statistics • Software Engineering
@@ -50,7 +53,7 @@ My interests lie at the intersection of Machine Learning, Artificial Intelligenc
 
 **Software Engineering Intern**
 
-Contributed to backend development within Oracle Customer Care & Billing (CCS), implementing business rules, validating billing-related processes, troubleshooting production issues, and supporting reliable enterprise-scale operations.
+Contributed to backend development within Oracle Utilities (CCS), implementing business rules, validating billing-related processes, troubleshooting production issues, and supporting reliable enterprise-scale operations.
 
 **Highlights**
 - Developed and maintained backend business logic
