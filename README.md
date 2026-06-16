@@ -29,7 +29,7 @@ My interests lie at the intersection of Machine Learning, Artificial Intelligenc
 ## Tech Stack
 
 <div align="center">
-[![Tech Stack](https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,mysql,postgres,git,github,bash,vscode\&theme=light)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,mysql,postgres,git,github,bash,vscode)](https://skillicons.dev)
 
 <p align="center">
   Machine Learning • Data Analysis • Feature Selection • Optimization • Statistics • Software Engineering
@@ -37,15 +37,6 @@ My interests lie at the intersection of Machine Learning, Artificial Intelligenc
 
 
 </div>
-### Core Skills
-
-* Data Analysis & Visualization
-* Machine Learning
-* Feature Selection & Optimization
-* Statistical Modeling
-* Data Mining
-* Software Development
-* Research & Experiment Design
 
 ---
 
@@ -106,14 +97,4 @@ Conducted research on feature selection for Human Activity Recognition (HAR), ev
 * Data Structures & Algorithms
 
 ---
-
-## Interests
-
-* Artificial Intelligence
-* Machine Learning
-* Optimization Algorithms
-* Bayesian Statistics
-* Mathematical Modeling
-* Research & Innovation
-
 
