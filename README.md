@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi! I'm Itzelt Gómez
+# Hi! I'm Itzelt Gómez ⭐️
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -101,10 +101,10 @@ Conducted research on feature selection for Human Activity Recognition (HAR), ev
 
 ## Currently Learning
 
-* Cloud Technologies
-* SQL and Database Design
-* AI Engineering
-* Data Structures & Algorithms
+* ☁️ Cloud Technologies
+* 🔗 SQL and Database Design
+* 🧩 AI Engineering
+* 🎲 Data Structures & Algorithms
 
 ---
 
