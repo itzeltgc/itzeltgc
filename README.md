@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF9AA2&center=true&vCenter=true&width=800&lines=Data+Scientist;Software+Engineer;Data+Science+%26+Mathematics+Engineer;AI%2FML+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=CF7486&center=true&vCenter=true&width=800&lines=Data+Scientist;Software+Engineer;Data+Science+%26+Mathematics+Engineer;AI%2FML+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 
 </div>
 
----
+<div>
 
 ## About Me
 
@@ -23,8 +23,11 @@ I am a Data Scientist with a background in Data Science and Mathematical Enginee
 My interests lie at the intersection of Machine Learning, Artificial Intelligence, Optimization, and Software Engineering. I am particularly passionate about designing data-driven solutions and building intelligent systems that create real-world impact.
 
 > Fun fact: My favorite theorem is the Fundamental Theorem of Arithmetic, and I secretly prefer Bayesian methods over frequentist statistics.
+  
+</div>
 
----
+
+
 
 ## Tech Stack
 
@@ -41,9 +44,8 @@ My interests lie at the intersection of Machine Learning, Artificial Intelligenc
 
 </div>
 
----
 
-<h2 align="center">Experience & Research</h2>
+<h2>Experience & Research</h2>
 
 <table>
 <tr>
