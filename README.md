@@ -46,6 +46,7 @@ My interests lie at the intersection of Machine Learning, Artificial Intelligenc
 
 </div>
 
+---
 
 <h2>Experience & Research</h2>
 
@@ -53,7 +54,6 @@ My interests lie at the intersection of Machine Learning, Artificial Intelligenc
 <tr>
 <td width="50%" valign="top">
 
----
 
 ### 💼 Oracle
 
