@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D58A94&center=true&vCenter=true&width=800&lines=Data+Scientist;AI%2FML+Enthusiast;Data+Science+%26+Mathematical+Engineering" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFE6ED&center=true&vCenter=true&width=800&lines=Data+Scientist;Software+Engineer;Data+Science+%26+Mathematics+Engineer;AI%2FML+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,8 +28,15 @@ My interests lie at the intersection of Machine Learning, Artificial Intelligenc
 
 ## Tech Stack
 
+<div align="center">
 [![Tech Stack](https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,mysql,postgres,git,github,bash,vscode\&theme=light)](https://skillicons.dev)
 
+<p align="center">
+  Machine Learning • Data Analysis • Feature Selection • Optimization • Statistics • Software Engineering
+</p>
+
+
+</div>
 ### Core Skills
 
 * Data Analysis & Visualization
@@ -42,12 +49,52 @@ My interests lie at the intersection of Machine Learning, Artificial Intelligenc
 
 ---
 
-## Experience & Research
+<h2 align="center">Experience & Research</h2>
 
-| Experience                              | Description                                                                                                                                                                                                                                                               | Key Skills                                                                 |
-| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| **Oracle Intern**                       | Collaborated within a professional software engineering environment, contributing to backend development projects while following industry-standard development practices, agile methodologies, code reviews, and version control workflows.                              | Python, Git, Software Engineering, Agile, Backend Development              |
-| **Human Activity Recognition Research** | Conducted research on feature selection for Human Activity Recognition (HAR) using metaheuristic optimization algorithms. Evaluated multiple optimizers using MCC as the objective metric and analyzed performance with machine learning classifiers such as SVM and KNN. | Machine Learning, Feature Selection, Optimization, Research, Data Analysis |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Oracle
+
+**Software Engineering Intern**
+
+Contributed to backend development within Oracle Customer Care & Billing (CCS), implementing business rules, validating billing-related processes, troubleshooting production issues, and supporting reliable enterprise-scale operations.
+
+**Highlights**
+- Developed and maintained backend business logic
+- Implemented and validated data processing rules
+- Debugged production and testing issues
+- Designed and executed unit tests
+- Worked within structured software development methodologies
+
+**Technologies**
+`Groovy` `SQL` `Python`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔬 Human Activity Recognition Research
+
+**Feature Selection using Metaheuristic Optimization**
+
+Conducted research on feature selection for Human Activity Recognition (HAR), evaluating metaheuristic optimization algorithms to identify relevant features while maintaining classification performance.
+
+**Highlights**
+- Evaluated 9 optimization algorithms
+- MCC-based feature subset selection
+- SVM and KNN performance evaluation
+- Cluster and feature analysis
+- Multi-user and general-user experiments
+
+**Technologies**
+`Python` `Scikit-Learn` `Machine Learning`
+`Optimization` `Statistics`
+
+</td>
+</tr>
+</table>
 
 ---
 
