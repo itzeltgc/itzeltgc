@@ -8,9 +8,11 @@
   </a>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/itzelt-gomez-24565026b)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:itzeltgomezc@outlook.com)
-![Location](https://img.shields.io/badge/Guadalajara%2C%20MX-555?style=flat-square)
+<p align="center">
+  <a href="mailto:itzeltgomezc@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/itzelt-gomez-24565026b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=CristobalMe&style=for-the-badge&color=F4C9D6&label=Profile+Views" alt="Profile Views" />
+</p>
 
 </div>
 
