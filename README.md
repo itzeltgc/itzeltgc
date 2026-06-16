@@ -16,6 +16,8 @@
 
 <div>
 
+---
+
 ## About Me
 
 I am a Data Scientist with a background in Data Science and Mathematical Engineering. I enjoy solving challenging problems, understanding why things work the way they do, and transforming data into actionable insights.
@@ -27,7 +29,7 @@ My interests lie at the intersection of Machine Learning, Artificial Intelligenc
 </div>
 
 
-
+---
 
 ## Tech Stack
 
@@ -50,6 +52,8 @@ My interests lie at the intersection of Machine Learning, Artificial Intelligenc
 <table>
 <tr>
 <td width="50%" valign="top">
+
+---
 
 ### 💼 Oracle
 
